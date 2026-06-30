@@ -43,9 +43,9 @@ export function Hero() {
             className="mx-auto mt-16 grid max-w-3xl grid-cols-3 gap-px overflow-hidden rounded-2xl border border-[var(--color-border)] bg-[var(--color-border)]"
           >
             {[
-              { value: "12+", label: "Years Experience" },
+              { value: "6+", label: "Years Experience" },
               { value: "AI", label: "Platform Focus" },
-              { value: "SAFe", label: "Certified PO/PM" },
+              { value: "SAFe", label: "PO/PM" },
             ].map((stat) => (
               <div
                 key={stat.label}

@@ -1,5 +1,6 @@
 import { About } from "@/components/About";
 import { Contact } from "@/components/Contact";
+import { DigitalTwin } from "@/components/DigitalTwin";
 import { Footer } from "@/components/Footer";
 import { Hero } from "@/components/Hero";
 import { Journey } from "@/components/Journey";
@@ -13,6 +14,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <About />
+      <DigitalTwin />
       <Journey />
       <Portfolio />
       <Contact />

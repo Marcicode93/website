@@ -7,6 +7,7 @@ import { siteConfig } from "@/data/profile";
 
 const navLinks = [
   { href: "#about", label: "About" },
+  { href: "#twin", label: "Digital Twin" },
   { href: "#journey", label: "Journey" },
   { href: "#portfolio", label: "Portfolio" },
   { href: "#contact", label: "Contact" },

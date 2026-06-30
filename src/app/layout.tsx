@@ -25,6 +25,10 @@ export const metadata: Metadata = {
     "Digital Products",
   ],
   authors: [{ name: "Marcel Steffen" }],
+  icons: {
+    icon: "/icon.svg",
+    apple: "/icon.svg",
+  },
   openGraph: {
     title: "Marcel Steffen — AI Product Builder",
     description:
